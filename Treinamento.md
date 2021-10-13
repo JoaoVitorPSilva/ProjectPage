@@ -1,5 +1,5 @@
 ---
-title: Treinmento
+title: Treinamento
 layout: template
 filename: Treinamento
 button: Treinamento
