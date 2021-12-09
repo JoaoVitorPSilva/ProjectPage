@@ -14,9 +14,6 @@ blocker: 2
 ### Sobre a Olimpíada Brasileira de Informática
 O objetivo da Olimpíada Brasileira de Informática (OBI) é despertar nos alunos o interesse por uma ciência importante na formação básica hoje em dia (no caso, ciência da computação), através de uma atividade que envolve desafio, engenhosidade e uma saudável dose de competição. A organização da OBI está cargo do Instituto de Computação da UNICAMP.
 
-<p align="center">
-<img src="images/image.png"/>	
-	</p>
 <p align="justify">
 	<b style="font-weight: bold;"><a href="https://e2pc.github.io/ProjectPage/OperadoresLogicos">Operadores Lógicos</a>: </b><br>
     </p>
