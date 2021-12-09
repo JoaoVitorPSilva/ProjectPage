@@ -16,7 +16,7 @@ O objetivo da Olimpíada Brasileira de Informática (OBI) é despertar nos aluno
 
 ### Conteúdos
 <p align="justify">
-	<b style="font-weight: bold;"><a href="https://e2pc.github.io/ProjectPage/OperadoresLogicos">Operadores Lógicos</a>: </b><br>
+	<b style="font-weight: bold;"><a href="https://e2pc.github.io/ProjectPage/OperadoresLogicos">Operadores Lógicos</a> </b><br>
     </p>
 </body>
 </html>
