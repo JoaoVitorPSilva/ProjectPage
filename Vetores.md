@@ -14,7 +14,7 @@ letras: conjunto[50] de Caractere; | letras: conjunto[1..50] de Char;   | char l
                                                                
 
 Exemplo:
-Preencha uma array com o alfabeto.<br />
+Preencha uma array com o alfabeto.
 char alfabeto: conjunto[26];
 Pseudocódigo                       | Pascal                             | Linguagem C ou C++              
                                    |                                    |                    
